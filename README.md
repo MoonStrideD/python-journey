@@ -18,7 +18,7 @@ This repository documents my progress as I learn Python through:
 
 ## 📚 My Progress
 
-### Module 1 - Python Basics
+### Unit 1 - Introduction to Python
 
 - [x] Hello World
 - [ ] Variables

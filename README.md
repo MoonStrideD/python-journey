@@ -9,14 +9,14 @@ This repository documents my progress as I learn Python through:
 - Personal projects
 - Continuous self-learning
 
-## My Goals
+## 🎯 My Goals
 
 - Learn Python fundamentals
 - Build practical projects
 - Improve problem-solving skills
 - Prepare for software engineering roles
 
-## My Progress
+## 📚 My Progress
 
 ### Module 1 - Python Basics
 
@@ -29,6 +29,4 @@ This repository documents my progress as I learn Python through:
 - [ ] Loops
 - [ ] Functions
 
----
-
-*"Every expert was once a beginner."*
+> "Every expert was once a beginner."
